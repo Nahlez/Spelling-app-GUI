@@ -1,6 +1,6 @@
 # Spelling-app-GUI
 
-You write a word in English and the program spells it out.
+Write a word in English and the program spells it out.
 
 **Requeriments:**
 
