@@ -2,7 +2,7 @@
 
 Write a word in English and the program spells it out.
 
-**Requeriments:**
+**Dependencies:**
 
 - Python 3.
 - The python module: Tkinter and Pyttsx3.
